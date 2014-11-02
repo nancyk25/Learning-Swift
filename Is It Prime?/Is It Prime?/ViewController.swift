@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Learning Swift
+//  Is It Prime?
 //
-//  Created by Nancy Kim on 10/2/14.
+//  Created by Nancy Kim on 11/2/14.
 //  Copyright (c) 2014 Udemy. All rights reserved.
 //
 
@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+
 
 }
 

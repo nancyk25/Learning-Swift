@@ -36,6 +36,8 @@
 		CF9BC4C219DE742300EAA870 /* Learning SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Learning SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF9BC4C719DE742300EAA870 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF9BC4C819DE742300EAA870 /* Learning_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learning_SwiftTests.swift; sourceTree = "<group>"; };
+		CF9BC4D219DE747300EAA870 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		CFEB300E19E3A604005550D6 /* IfAndElse.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = IfAndElse.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,8 @@
 			children = (
 				CF9BC4B219DE742300EAA870 /* AppDelegate.swift */,
 				CF9BC4B419DE742300EAA870 /* ViewController.swift */,
+				CF9BC4D219DE747300EAA870 /* MyPlayground.playground */,
+				CFEB300E19E3A604005550D6 /* IfAndElse.playground */,
 				CF9BC4B619DE742300EAA870 /* Main.storyboard */,
 				CF9BC4B919DE742300EAA870 /* Images.xcassets */,
 				CF9BC4BB19DE742300EAA870 /* LaunchScreen.xib */,
@@ -405,6 +409,7 @@
 				CF9BC4CE19DE742300EAA870 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF9BC4CF19DE742300EAA870 /* Build configuration list for PBXNativeTarget "Learning SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				CF9BC4D119DE742300EAA870 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
