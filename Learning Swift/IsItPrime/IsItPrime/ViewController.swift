@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Is It Prime?
+//  IsItPrime
 //
 //  Created by Nancy Kim on 11/2/14.
 //  Copyright (c) 2014 Udemy. All rights reserved.

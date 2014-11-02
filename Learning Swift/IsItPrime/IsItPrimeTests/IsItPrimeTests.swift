@@ -1,6 +1,6 @@
 //
-//  Is_It_Prime_Tests.swift
-//  Is It Prime?Tests
+//  IsItPrimeTests.swift
+//  IsItPrimeTests
 //
 //  Created by Nancy Kim on 11/2/14.
 //  Copyright (c) 2014 Udemy. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class Is_It_Prime_Tests: XCTestCase {
+class IsItPrimeTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
